@@ -3,6 +3,7 @@ package com.chip;
 public class Chip {
 private Integer chipid;
 private String chipname;
+	
 public void setChipid(Integer chipid) {
 	this.chipid = chipid;
 }
