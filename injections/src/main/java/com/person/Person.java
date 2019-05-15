@@ -10,6 +10,7 @@ import com.emp.Employee;
 
 public class Person {
 private Integer pid;
+private Integer pid1;
 private String pname;
 private Employee emp;
 private List <String> visitedplaces;
