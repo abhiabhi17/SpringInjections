@@ -15,7 +15,7 @@ public class Test {
 		System.out.println(p1);
 		System.out.println(p2);
 System.out.println("this is master branch moved from develop branch and made changes from git web repo");
-System.out.println("modified in eclipse again plz again ");
+
 	}
 
 }
