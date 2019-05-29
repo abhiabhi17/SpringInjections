@@ -14,8 +14,12 @@ public class Test {
 		Person p2=ctx.getBean("person2",Person.class);
 		System.out.println(p1);
 		System.out.println(p2);
+
+
+
 System.out.println("this is master branch moved from develop branch and made changes from git web repo");
 System.out.println("changed in eclipe moved to github");
+
 
 
 	}
