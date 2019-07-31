@@ -19,7 +19,7 @@ public class Test {
 
 System.out.println("this is master branch moved from develop branch and made changes from git web repo");
 System.out.println("changed in eclipe moved to github");
-System.out.println("git after long ");
+System.out.println("changed in git hub repo ");
 
 
 
