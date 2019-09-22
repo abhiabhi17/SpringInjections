@@ -12,8 +12,6 @@ public class Test {
 		ApplicationContext ctx=new ClassPathXmlApplicationContext("com/cfg/Beans.xml");
 		Person p1=ctx.getBean("person1",Person.class);
 		Person p2=ctx.getBean("person2",Person.class);
-		System.out.println(p1);
-		System.out.println(p2);
 		
 		
 
