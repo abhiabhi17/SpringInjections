@@ -14,7 +14,7 @@ public class Test {
 		Person p2=ctx.getBean("person2",Person.class);
 		System.out.println(p1);
 		System.out.println(p2);
-		System.out.println("changed in git 2nd time hub");
+		
 		
 
 
